@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Jenish Patel :man_technologist:
 
-I'm a passionate **Frontend Developer** with over 2 years of professional experience crafting fast, scalable, and user-friendly web applications using **React.js** and **TypeScript**.
+I'm a passionate **Frontend Developer** with over 2+ years of professional experience crafting fast, scalable, and user-friendly web applications using **React.js** and **TypeScript**.
 
 ### 🚀 What I Do
 - 🔧 Build modern, responsive UIs with **React**, **Next.js**, **Tailwind CSS**, and **TypeScript**.
