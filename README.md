@@ -5,7 +5,7 @@ I'm a passionate **Frontend Developer** with 3+ years of professional experience
 ---
 
 ### 🚀 What I Do
-- 🔧 Build modern, responsive UIs with **React.js**, **TypeScript**, **Vite**, and **Tailwind CSS**.
+- 🔧 Build modern, responsive UIs with **React.js**, **TypeScript**, and **Vite**.
 - ⚡ Optimize applications for performance — achieving results like 60% faster build times and 2x page load improvements.
 - 🤖 Leverage AI tools like **GitHub Copilot**, **Cursor AI**, and **Augment** to accelerate development.
 - 🧠 Continuously learning and improving through real-world challenges and team collaboration.
