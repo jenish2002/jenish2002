@@ -1,13 +1,13 @@
 ### 👋 Hi there, I'm Jenish Patel :man_technologist:
 
-I'm a passionate **Frontend Developer** with 3+ years of professional experience crafting fast, scalable, and user-friendly web applications using **React.js** and **TypeScript**. I love building impactful features, optimizing performance, and leveraging AI-assisted tools to accelerate development workflows.
+I'm a passionate Software Engineer with 3+ years of professional experience crafting fast, scalable, and user-friendly web applications using React.js and TypeScript. I love building impactful features, optimizing performance, and leveraging AI-assisted tools to accelerate development workflows.
 
 ---
 
 ### 🚀 What I Do
-- 🔧 Build modern, responsive UIs with **React.js**, **TypeScript**, and **Vite**.
+- 🔧 Build modern, responsive UIs with React.js, TypeScript, and Vite.
 - ⚡ Optimize applications for performance — achieving results like 60% faster build times and 2x page load improvements.
-- 🤖 Leverage AI tools like **GitHub Copilot**, **Cursor AI**, and **Augment** to accelerate development.
+- 🤖 Leverage AI tools like GitHub Copilot, Cursor AI, and Augment to accelerate development.
 - 🧠 Continuously learning and improving through real-world challenges and team collaboration.
 
 ---
@@ -15,17 +15,17 @@ I'm a passionate **Frontend Developer** with 3+ years of professional experience
 ### 💼 Experience Highlights
 
 **Junior Software Engineer @ Rapidops Inc.** *(Jul 2023 – Present)*
-- 🚀 Migrated legacy React app (CRA → **Vite**), cutting build times by **60%** and doubling page load speed via lazy loading & minification.
-- 🌍 Delivered **Channel Manager** and **Internationalization** features for Experro (headless CMS), enabling multi-language delivery, theming, and SEO via 301 redirects.
-- 🎨 Built a **UI Customization module** for real-time layout, theme, and storefront configuration for plug-and-play clients.
-- 👥 Developed **Audience module** supporting segmentation of **3M+ users** by country/behavior with engagement analytics.
-- 🛍️ Implemented **Recommendations feature**, boosting user engagement by **15–20%** and improving CTR on product listings.
-- 🧹 Refactored **5+ core modules** into reusable components, reducing code redundancy by **30%**.
+- 🚀 Migrated legacy React app (CRA → Vite), cutting build times by 60% and doubling page load speed via lazy loading & minification.
+- 🌍 Delivered Channel Manager and Internationalization features for Experro (headless CMS), enabling multi-language delivery, theming, and SEO via 301 redirects.
+- 🎨 Built a UI Customization module for real-time layout, theme, and storefront configuration for plug-and-play clients.
+- 👥 Developed Audience module supporting segmentation of 3M+ users by country/behavior with engagement analytics.
+- 🛍️ Implemented Recommendations feature, boosting user engagement by 15–20% and improving CTR on product listings.
+- 🧹 Refactored 5+ core modules into reusable components, reducing code redundancy by 30%.
 
 **Software Engineer Intern @ Rapidops Inc.** *(Jan 2023 – Jun 2023)*
-- 📋 Built **Audit Logs** module for real-time, filterable user activity tracking for admin visibility.
-- 🔍 Created **Search Redirects** module to route search terms to targeted URLs, improving navigation flow.
-- 🧪 Developed and tested multiple UI components using **React.js** and **Jest**.
+- 📋 Built Audit Logs module for real-time, filterable user activity tracking for admin visibility.
+- 🔍 Created Search Redirects module to route search terms to targeted URLs, improving navigation flow.
+- 🧪 Developed and tested multiple UI components using React.js and Jest.
 
 ---
 
