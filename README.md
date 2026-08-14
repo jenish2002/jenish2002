@@ -14,7 +14,7 @@ I'm a Software Engineer with 3+ years of professional experience crafting fast, 
 
 ### 💼 Experience Highlights
 
-**Software Engineer @ Rapidops Inc.** *(Jan 2023 – Present)*
+**Software Engineer @ Rapidops Inc.** *(Jan 2023 – Feb 2026)*
 - 🚀 Migrated legacy React app (CRA → Vite), cutting build times by 60% and doubling page load speed via lazy loading & minification.
 - 🌍 Delivered Channel Manager and Internationalization features for Experro (headless CMS), enabling multi-language delivery, theming, and SEO via 301 redirects.
 - 🎨 Built a UI Customization module for real-time layout, theme, and storefront configuration for plug-and-play clients.
